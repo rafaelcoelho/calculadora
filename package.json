@@ -1,0 +1,19 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora da Carol com operações de adição e subtração",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelcoelho/calculadora.git"
+  },
+  "author": "Carol Coelho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelcoelho/calculadora/issues"
+  },
+  "homepage": "https://github.com/rafaelcoelho/calculadora#readme"
+}
