@@ -1,5 +1,5 @@
 # Calculadora da Carol
-Esta é a Calculadora da Feita pela Carol (Minha Filha Amada)
+Esta é a Calculadora Feita pela Carol (Minha Filha Amada de 8 anos)
 
 
 ## Algoritmo
