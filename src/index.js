@@ -11,9 +11,9 @@ rl.question("Digite a operação desejada: ", function (operacao) {
     rl.question("Digite o primeiro numero: ", function (primeiroNumero) {
         rl.question("Digite o segundo numero: ", function (segundoNumero) {
             if (operacao == 1) {
-                adicao(parseInt(primeiroNumero), parseInt(segundoNumero))
+                adicao(+primeiroNumero, +segundoNumero)
             } else if (operacao == 2) {
-                subtracao(parseInt(primeiroNumero), parseInt(segundoNumero))
+                subtracao(+primeiroNumero, +segundoNumero)
             } else {
                 console.log('Operação Inválida !!!')
             }
